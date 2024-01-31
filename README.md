@@ -1,7 +1,10 @@
 ### Всем привет! Меня зовут Ваха и я Frontend-разработчик
 <hr/>
 Стэк технологий, c которыми я работаю :
-https://img.shields.io/badge/Telegramm
+![image](https://github.com/Vakha177/Vakha177/assets/140196528/93f3cb77-370d-4f7c-93f0-b47c9d0514e5)
+![image](https://github.com/Vakha177/Vakha177/assets/140196528/f41a73ad-ef02-4f01-8dd2-721019728849)
+![image](https://github.com/Vakha177/Vakha177/assets/140196528/69ab565a-f0c0-4c40-bf13-ddb831bcf18c)
+![image](https://github.com/Vakha177/Vakha177/assets/140196528/63ef54fb-2c08-4f8f-934a-1a74f452afb3)
 
 <!--
 **Vakha177/Vakha177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
