@@ -1,5 +1,8 @@
 ### Всем привет! Меня зовут Ваха и я Frontend-разработчик
 <hr/>
+Стэк технологий, c которыми я работаю :
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 <!--
 **Vakha177/Vakha177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
