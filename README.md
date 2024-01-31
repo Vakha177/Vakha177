@@ -1,5 +1,5 @@
 ### Всем привет! Меня зовут Ваха и я Frontend-разработчик
-
+<hr/>
 <!--
 **Vakha177/Vakha177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
